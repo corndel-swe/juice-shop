@@ -19,7 +19,7 @@ Juice Shop.
 
 ## Setup
 
-### Running from source
+### Option 1: Running from source
 
 Clone the repo locally or open in a Codespace and run:
 
@@ -27,7 +27,7 @@ Clone the repo locally or open in a Codespace and run:
 
 2. `npm start`
 
-### Docker
+### Option 2: Docker
 
 Install [Docker](https://www.docker.com) locally or open in a Codespace and run
 
